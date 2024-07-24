@@ -125,9 +125,11 @@ th, td {
     /* Uncomment for debugging alignment */
     /* border: 1px solid black; */
 }
-
+img{
+    width: 100%;
+}
 .banner {
-    position: relative;
+    position: relative;    
     font-family: 'Roboto Slab', serif;
 }
 
