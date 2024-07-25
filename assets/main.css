@@ -32,7 +32,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     line-height: 1.5em;
-    margin: 60px auto;
+    margin: 30px auto;
     width: 1000px;
 }
 hr {
@@ -127,6 +127,7 @@ th, td {
 }
 img{
     width: 100%;
+    height: 60vh;
 }
 .banner {
     position: relative;    
